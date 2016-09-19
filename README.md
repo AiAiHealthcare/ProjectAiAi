@@ -20,3 +20,4 @@ You can [click here to see our KANBAN tracker] (https://github.com/AiAiHealthcar
 [![Build Status](https://travis-ci.org/AiAiHealthcare/ProjectAiAi.svg?branch=master&maxAge=3600)](https://travis-ci.org/AiAiHealthcare/ProjectAiAi)
 [![Codacy Badge Grade](https://api.codacy.com/project/badge/Grade/88fa8a9493a24c0b94d3151eccf8f567?maxAge=3600)](https://www.codacy.com/app/AiAi/ProjectAiAi)
 [![Code Climate GPA](https://codeclimate.com/github/AiAiHealthcare/ProjectAiAi/badges/gpa.svg?maxAge=3600)](https://codeclimate.com/github/AiAiHealthcare/ProjectAiAi)
+[![QunatifiedCode Analysis](https://www.quantifiedcode.com/api/v1/project/f51e578e39ba490782e3ac41f869f871/badge.svg?maxAge=3600)](https://www.quantifiedcode.com/app/project/f51e578e39ba490782e3ac41f869f871)
