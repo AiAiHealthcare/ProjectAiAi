@@ -5,12 +5,10 @@ sudo: false
 language: python
 python:
   - "3.5"
-  - "nightly"
-  - "pypy3"
 
 # Set ENV to use TensorFlow
 before_install:
-  - export KERAS_BACKEND=tensorflow
+#  - export KERAS_BACKEND=tensorflow
 
 # Batch install dependencies
 install:
