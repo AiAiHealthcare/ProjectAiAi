@@ -219,6 +219,11 @@ terms of section 4, provided that you also meet all of these conditions:
     Appropriate Legal Notices; however, if the Program has interactive
     interfaces that do not display Appropriate Legal Notices, your
     work need not make them do so.
+    
+    e) You must submit all source modifications, the end result of your 
+    work, and all its parts and dependencies as pull requests to the 
+    original project code repository or its successor / survivor 
+    repository maintained by Keyur K Mithawala.
 
   A compilation of a covered work with other separate and independent
 works, which are not by their nature extensions of the covered work,
