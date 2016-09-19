@@ -1,4 +1,4 @@
-# Project AiAi Introduction
+# Project AiAi
 
 [![Follow Our Updates](https://img.shields.io/twitter/follow/AiAiHealthcare.svg?style=social&label=Follow&maxAge=3600)](https://twitter.com/AiAiHealthcare/)
 [![Join Gitter Discussion](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=3600)](https://gitter.im/AiAi-care/Lobby)
