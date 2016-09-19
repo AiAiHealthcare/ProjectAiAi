@@ -8,7 +8,11 @@ python:
   - "nightly"
   - "pypy3"
 
-# batch install dependencies
+# Batch install dependencies
 install:
   - pip install -r requirements.txt
   - python setup.py
+
+# Run unit tests
+script: 
+  - pytest
