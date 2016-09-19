@@ -1,0 +1,4 @@
+# NOTE TO CONTRIBUTORS: Please use == dependencies for explicit version tracking 
+
+# Project AiAi core reqs
+Keras==1.0.8
