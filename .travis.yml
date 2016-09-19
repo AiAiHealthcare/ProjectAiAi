@@ -11,8 +11,7 @@ python:
 # Set ENV to use TensorFlow
 before_install:
   - export KERAS_BACKEND=tensorflow
-  - pip3 install --upgrade TF_BINARY_URL=https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.10.0-cp35-cp35m-linux_x86_64.whl
-  
+
 # Batch install dependencies
 install:
   - pip install -r requirements.txt
