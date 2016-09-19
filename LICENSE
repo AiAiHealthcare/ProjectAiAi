@@ -224,6 +224,12 @@ terms of section 4, provided that you also meet all of these conditions:
     work, and all its parts and dependencies as pull requests to the 
     original project code repository or its successor / survivor 
     repository maintained by Keyur K Mithawala.
+    
+    f) You must submit all deep learning or machine learning weights,
+    training parameters, meta-parameters, configurations files, 
+    tuning options, and all related parameters as pull requests to the 
+    original project code repository or its successor / survivor 
+    repository maintained by Keyur K Mithawala.
 
   A compilation of a covered work with other separate and independent
 works, which are not by their nature extensions of the covered work,
