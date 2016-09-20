@@ -11,9 +11,9 @@ AiAi is my code-charity project to create an open source Lung Cancer CAD (Comput
 If you are looking for a non-technical introduction to Project AiAi, please [click here to visit AiAi.care website](https://AiAi.care).
 
 
-# KANBAN Board
+# Donate your Expertise
 
-You can [click here to see our KANBAN tracker] (https://github.com/AiAiHealthcare/ProjectAiAi/projects/1?fullscreen=true)
+Check out [our KANBAN project tracker here](https://github.com/AiAiHealthcare/ProjectAiAi/projects/1?fullscreen=true). You can donate your time and expertise by contributing to any of the issues/tasks pinned on the KANBAN board.
 
 ***
 [![Python Requirements Status](https://requires.io/github/AiAiHealthcare/ProjectAiAi/requirements.svg?branch=master&?maxAge=3600)](https://requires.io/github/AiAiHealthcare/ProjectAiAi/requirements/?branch=master)
