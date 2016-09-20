@@ -13,7 +13,7 @@ If you are looking for a non-technical introduction to Project AiAi, please [cli
 
 # Donate your Expertise
 
-If you are a Machine Learning maestro, Kaggle king, or Deep Learning developer, please check out [AiAi KANBAN project tracker here](https://github.com/AiAiHealthcare/ProjectAiAi/projects/1?fullscreen=true). You can donate your time and expertise by contributing to any of the issues/tasks pinned on the KANBAN board.
+If you are a Machine Learning maestro, Kaggle king, or Deep Learning developer, please check out our [KANBAN project tracker here](https://github.com/AiAiHealthcare/ProjectAiAi/projects/1?fullscreen=true). You can donate your time and expertise by contributing to any of the issues/tasks pinned on the KANBAN board.
 
 ***
 [![Python Requirements Status](https://requires.io/github/AiAiHealthcare/ProjectAiAi/requirements.svg?branch=master&?maxAge=3600)](https://requires.io/github/AiAiHealthcare/ProjectAiAi/requirements/?branch=master)
