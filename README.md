@@ -15,8 +15,6 @@ If you are looking for a non-technical introduction to Project AiAi, please [cli
 
 If you are a Machine Learning maestro, Kaggle king, or HL7 hacker then please check out our [KANBAN project tracker here](https://github.com/AiAiHealthcare/ProjectAiAi/projects/1?fullscreen=true). You can donate your time and expertise by contributing to any of the issues/tasks pinned on the KANBAN board.
 
-***
-
 Project KPIs:
 
 [![Python Requirements Status](https://requires.io/github/AiAiHealthcare/ProjectAiAi/requirements.svg?branch=master&?maxAge=3600)](https://requires.io/github/AiAiHealthcare/ProjectAiAi/requirements/?branch=master)
@@ -25,3 +23,8 @@ Project KPIs:
 [![Codacy Badge Grade](https://api.codacy.com/project/badge/Grade/88fa8a9493a24c0b94d3151eccf8f567?maxAge=3600)](https://www.codacy.com/app/AiAi/ProjectAiAi)
 [![Code Climate GPA](https://codeclimate.com/github/AiAiHealthcare/ProjectAiAi/badges/gpa.svg?maxAge=3600)](https://codeclimate.com/github/AiAiHealthcare/ProjectAiAi)
 [![QunatifiedCode Analysis](https://www.quantifiedcode.com/api/v1/project/f51e578e39ba490782e3ac41f869f871/badge.svg?maxAge=3600)](https://www.quantifiedcode.com/app/project/f51e578e39ba490782e3ac41f869f871)
+
+
+# Legal Strategy Wiki
+
+Project AiAi is the first effort of its kind to donate an open-source, medical algorithm to the world.  This presents some interesting legal challenges, so we have [set up a wiki page where lawyers can donate their time and advice for Project AiAi.](https://github.com/AiAiHealthcare/ProjectAiAi/wiki)
