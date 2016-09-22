@@ -13,3 +13,4 @@ xgboost>=0.6a2
 rep==0.6.6
 TPOT==0.6.4
 Keras==1.1.0
+hyperas=0.2
