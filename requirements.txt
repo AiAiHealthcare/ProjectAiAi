@@ -9,7 +9,7 @@ numpy
 scipy
 pandas>=0.18.1
 scikit_learn==0.17.1
-xgboost==0.6
+xgboost>=0.6a2
 rep==0.6.6
 TPOT==0.6.4
 Keras==1.1.0
