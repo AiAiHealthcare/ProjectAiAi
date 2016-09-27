@@ -11,6 +11,17 @@ AiAi is my code-charity project to create an open source Lung Cancer CAD (Comput
 If you are looking for a non-technical introduction to Project AiAi, please [click here to visit AiAi.care website](https://AiAi.care).  In case you were wondering about the project's name, AiAi stands for _AI Augmented Imaging_.
 
 
+# Timeline 
+Here are [major milestones](https://github.com/AiAiHealthcare/ProjectAiAi/milestones) for the project and target completion dates:
+
+1. *Data cleaning and munging : Dec 31, 2016* _(In Progress)_ 
+1. Deep Learning Model - programming and training: Feb 28, 2017
+1. Level 1 Machine Learning Models: April 30, 2017
+1. Level 2/3 model ensembles: May 30, 2017
+1. PACS / VNA / DICOM / HL7 / EHR ingestion engine: June 29, 2017
+1. MRMC clinical validation: August 30, 2017
+
+
 # Donate your Expertise
 
 If you are a Machine Learning maestro, Kaggle king, or HL7 hacker then please check out our [KANBAN project tracker here](https://github.com/AiAiHealthcare/ProjectAiAi/projects/1?fullscreen=true). You can donate your time and expertise by contributing to any of the issues/tasks pinned on the KANBAN board.
