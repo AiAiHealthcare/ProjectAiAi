@@ -5,15 +5,14 @@ AiAi is my code-charity project to create an open source Lung Cancer CAD (Comput
 If you are looking for a non-technical introduction to Project AiAi, please [click here to visit AiAi.care website](https://AiAi.care).  In case you were wondering about the project's name, AiAi stands for _AI Augmented Imaging_.
 
 
-Follow us on Twitter:
-[![Follow Our Twitter Updates](https://img.shields.io/twitter/follow/AiAiHealthcare.svg?style=social&label=Follow&maxAge=3600)](https://twitter.com/AiAiHealthcare/)
 
-Join out discussion channel for developers:
-[![Join Gitter Discussion](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=3600)](https://gitter.im/AiAi-care/Lobby)
+[![Follow Our Twitter Updates](https://img.shields.io/twitter/follow/AiAiHealthcare.svg?style=social&label=Follow&maxAge=3600)](https://twitter.com/AiAiHealthcare/) Follow us on Twitter
+
+[![Join Gitter Discussion](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=3600)](https://gitter.im/AiAi-care/Lobby) Join out discussion channel for developers
+
 [![GitHub Commits Count](https://img.shields.io/github/commits-since/AiAiHealthcare/ProjectAiAi/0.0.svg?maxAge=3600&label=Github%20Commits)](https://github.com/AiAiHealthcare/ProjectAiAi/graphs/punch-card)
 
-Visit project website:
-[![Website](https://img.shields.io/website-up-down-green-red/https/AiAi.care.svg?maxAge=3600)](https://AiAi.care/)
+[![Website](https://img.shields.io/website-up-down-green-red/https/AiAi.care.svg?maxAge=3600)](https://AiAi.care/) Visit project website
 
 
 # Project Milestones 
