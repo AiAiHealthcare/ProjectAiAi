@@ -8,11 +8,9 @@ If you are looking for a non-technical introduction to Project AiAi, please [cli
 
 [![Follow Our Twitter Updates](https://img.shields.io/twitter/follow/AiAiHealthcare.svg?style=social&label=Follow&maxAge=3600)](https://twitter.com/AiAiHealthcare/) <- Follow us on Twitter
 
-[![Join Gitter Discussion](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=3600)](https://gitter.im/AiAi-care/Lobby) <= Join out discussion channel for developers
+[![Join Gitter Discussion](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=3600)](https://gitter.im/AiAi-care/Lobby) <- Join out discussion channel for developers
 
-[![GitHub Commits Count](https://img.shields.io/github/commits-since/AiAiHealthcare/ProjectAiAi/0.0.svg?maxAge=3600&label=Github%20Commits)](https://github.com/AiAiHealthcare/ProjectAiAi/graphs/punch-card)
-
-[![Website](https://img.shields.io/website-up-down-green-red/https/AiAi.care.svg?maxAge=3600)](https://AiAi.care/) Visit project website
+[![Website](https://img.shields.io/website-up-down-green-red/https/AiAi.care.svg?maxAge=3600)](https://AiAi.care/) <- Visit project website
 
 
 # Project Milestones 
@@ -40,6 +38,7 @@ Project AiAi is the first effort of its kind to donate an open-source, medical a
 
 Here are some technical KPIs related to code quality and build environment:
 
+[![GitHub Commits Count](https://img.shields.io/github/commits-since/AiAiHealthcare/ProjectAiAi/0.0.svg?maxAge=3600&label=Github%20Commits)](https://github.com/AiAiHealthcare/ProjectAiAi/graphs/punch-card)
 [![Python Requirements Status](https://requires.io/github/AiAiHealthcare/ProjectAiAi/requirements.svg?branch=master&?maxAge=3600)](https://requires.io/github/AiAiHealthcare/ProjectAiAi/requirements/?branch=master)
 [![Dependency Status](https://www.versioneye.com/user/projects/57df3671037c2000475cd3f5/badge.svg?maxAge=3600)](https://www.versioneye.com/user/projects/57df3671037c2000475cd3f5)
 [![Build Status](https://travis-ci.org/AiAiHealthcare/ProjectAiAi.svg?branch=master&maxAge=3600)](https://travis-ci.org/AiAiHealthcare/ProjectAiAi)
