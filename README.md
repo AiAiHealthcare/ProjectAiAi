@@ -14,7 +14,7 @@ If you are looking for a non-technical introduction to Project AiAi, please [cli
 # Project Milestones 
 Here are [major milestones](https://github.com/AiAiHealthcare/ProjectAiAi/milestones) for the project and target completion dates:
 
-1. *Data cleaning and munging : Dec 31, 2016* _(In Progress)_ 
+1. **Data cleaning and munging : Dec 31, 2016** _(In Progress)_ 
 1. Deep Learning Model - programming and training: Feb 28, 2017
 1. Level 1 Machine Learning Models: April 30, 2017
 1. Level 2/3 model ensembles: May 30, 2017
