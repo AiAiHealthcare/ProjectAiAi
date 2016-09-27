@@ -6,11 +6,11 @@ If you are looking for a non-technical introduction to Project AiAi, please [cli
 
 
 
-[![Follow Our Twitter Updates](https://img.shields.io/twitter/follow/AiAiHealthcare.svg?style=social&label=Follow&maxAge=3600)](https://twitter.com/AiAiHealthcare/) <- Follow us on Twitter
+[![Follow Our Twitter Updates](https://img.shields.io/twitter/follow/AiAiHealthcare.svg?style=social&label=Follow&maxAge=3600)](https://twitter.com/AiAiHealthcare/) ###### <- Follow us on Twitter
 
-[![Join Gitter Discussion](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=3600)](https://gitter.im/AiAi-care/Lobby) <- Join our Gitter channel for developers
+[![Join Gitter Discussion](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=3600)](https://gitter.im/AiAi-care/Lobby) ###### <- Join our Gitter channel for developers
 
-[![Website](https://img.shields.io/website-up-down-green-red/https/AiAi.care.svg?maxAge=3600)](https://AiAi.care/) <- Visit Project AiAi website
+[![Website](https://img.shields.io/website-up-down-green-red/https/AiAi.care.svg?maxAge=3600)](https://AiAi.care/) ###### <- Visit Project AiAi website
 
 
 # Project Milestones 
