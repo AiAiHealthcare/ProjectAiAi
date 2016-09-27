@@ -21,12 +21,12 @@ Here are [major milestones](https://github.com/AiAiHealthcare/ProjectAiAi/milest
 1. MRMC clinical validation: August 30, 2017
 
 
-# Donate your Expertise
+# Donate your ML/DL Expertise
 
 If you are a Machine Learning maestro, Kaggle king, or HL7 hacker then please check out our [KANBAN project tracker here](https://github.com/AiAiHealthcare/ProjectAiAi/projects/1?fullscreen=true). You can donate your time and expertise by contributing to any of the issues/tasks pinned on the KANBAN board.
 
 
-# Legal Strategy Wiki
+# Contribute to Legal Strategy Wiki
 
 Project AiAi is the first effort of its kind to donate an open-source, medical algorithm to the world.  This presents some interesting legal challenges, so we have [set up a wiki page where lawyers can donate their time and advice for Project AiAi.](https://github.com/AiAiHealthcare/ProjectAiAi/wiki)
 
