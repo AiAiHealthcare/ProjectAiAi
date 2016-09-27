@@ -7,9 +7,11 @@ If you are looking for a non-technical introduction to Project AiAi, please [cli
 
 Follow us on Twitter:
 [![Follow Our Twitter Updates](https://img.shields.io/twitter/follow/AiAiHealthcare.svg?style=social&label=Follow&maxAge=3600)](https://twitter.com/AiAiHealthcare/)
+
 Join out discussion channel for developers:
 [![Join Gitter Discussion](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=3600)](https://gitter.im/AiAi-care/Lobby)
 [![GitHub Commits Count](https://img.shields.io/github/commits-since/AiAiHealthcare/ProjectAiAi/0.0.svg?maxAge=3600&label=Github%20Commits)](https://github.com/AiAiHealthcare/ProjectAiAi/graphs/punch-card)
+
 Visit project website:
 [![Website](https://img.shields.io/website-up-down-green-red/https/AiAi.care.svg?maxAge=3600)](https://AiAi.care/)
 
