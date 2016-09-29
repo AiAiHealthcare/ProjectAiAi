@@ -2,7 +2,7 @@
 
 AiAi is my code-charity project to create an open source Lung Cancer CAD (Computer-aided Detection) algorithm for the world. I plan to donate this radiology algorithm to Doctors without Borders and charitable hospitals in developing countries like India, Belarus, and Vietnam.
 
-If you are looking for a non-technical introduction to Project AiAi, please [click here to visit AiAi.care website](https://AiAi.care).  In case you were wondering about the project's name, AiAi stands for _AI Augmented Imaging_.
+If you are looking for a non-technical introduction to Project AiAi, please [click here to visit https://AiAi.care website](https://AiAi.care).  In case you were wondering about the project's name, AiAi stands for _AI Augmented Imaging_.
 
 
 [![Follow Our Twitter Updates](https://img.shields.io/twitter/follow/AiAiHealthcare.svg?style=social&label=Follow&maxAge=3600)](https://twitter.com/AiAiHealthcare/) 
