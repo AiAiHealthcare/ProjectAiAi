@@ -8,11 +8,11 @@ tqdm>=4.8.4
 numpy
 scipy
 pandas>=0.18.1
-scikit_learn==0.17.1
+scikit_learn==0.18
 xgboost>=0.6a2
 scikit-image>=0.12.3
 pydicom>=0.9.9
 MedPy>=0.2.2
 rep==0.6.6
-TPOT==0.6.4
+TPOT==0.6.6
 Keras==1.1.0
