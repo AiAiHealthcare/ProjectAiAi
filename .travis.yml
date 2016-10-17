@@ -15,6 +15,14 @@ install:
   - pip install -r requirements.txt
   - python setup.py
 
+# Install non-pip dependencies
+git clone --recursive https://github.com/Microsoft/LightGBM
+cd LightGBM
+mkdir build
+cd build
+cmake .. 
+make -j 
+
 # Run unit tests
 script: 
   - echo true
