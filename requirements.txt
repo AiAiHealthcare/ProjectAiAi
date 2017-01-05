@@ -13,6 +13,5 @@ xgboost>=0.6a2
 scikit-image>=0.12.3
 pydicom>=0.9.9
 MedPy>=0.2.2
-rep==0.6.6
 TPOT==0.6.6
-Keras==1.1.0
+Keras==1.2.0
