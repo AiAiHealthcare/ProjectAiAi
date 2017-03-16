@@ -14,7 +14,7 @@ If you are looking for a non-technical introduction to Project AiAi, please [cli
 Here are [major milestones](https://github.com/AiAiHealthcare/ProjectAiAi/milestones) for the project and target completion dates:
 
 1. :white_check_mark: X-Ray and CT Data Loading, Cleaning : Feb 1, 2017 _(Complete)_
-1. :white_check_mark: Deep Learning Docker Image: Feb 28, 2017 _(Complete)_
+1. :white_check_mark: Deep Learning Docker Image (Keras, PyTorch, HIPAA): Feb 28, 2017 _(Complete)_
 1. :soon: Data Augmentation Tests: March 30, 2017 _(In Progress)_
 1. :soon: Level 1 Models (DenseNet Segmentation): April 12, 2017 _(In Progress)_
 1. :soon: HIPAA Audit and Validation: April 30, 2017 _(In Progress)_
