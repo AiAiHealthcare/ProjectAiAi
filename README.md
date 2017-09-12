@@ -38,9 +38,5 @@ Project AiAi is the first effort of its kind to donate an open-source, medical a
 Here are some technical KPIs related to code quality and build environment:
 
 [![GitHub Commits Count](https://img.shields.io/github/commits-since/AiAiHealthcare/ProjectAiAi/0.0.svg?maxAge=3600&label=Github%20Commits)](https://github.com/AiAiHealthcare/ProjectAiAi/graphs/punch-card)
-[![Python Requirements Status](https://requires.io/github/AiAiHealthcare/ProjectAiAi/requirements.svg?branch=master&?maxAge=3600)](https://requires.io/github/AiAiHealthcare/ProjectAiAi/requirements/?branch=master)
 [![Dependency Status](https://www.versioneye.com/user/projects/57df3671037c2000475cd3f5/badge.svg?maxAge=3600)](https://www.versioneye.com/user/projects/57df3671037c2000475cd3f5)
 [![Build Status](https://travis-ci.org/AiAiHealthcare/ProjectAiAi.svg?branch=master&maxAge=3600)](https://travis-ci.org/AiAiHealthcare/ProjectAiAi)
-[![Codacy Badge Grade](https://api.codacy.com/project/badge/Grade/88fa8a9493a24c0b94d3151eccf8f567?maxAge=3600)](https://www.codacy.com/app/AiAi/ProjectAiAi)
-[![Code Climate GPA](https://codeclimate.com/github/AiAiHealthcare/ProjectAiAi/badges/gpa.svg?maxAge=3600)](https://codeclimate.com/github/AiAiHealthcare/ProjectAiAi)
-[![QunatifiedCode Analysis](https://www.quantifiedcode.com/api/v1/project/f51e578e39ba490782e3ac41f869f871/badge.svg?maxAge=3600)](https://www.quantifiedcode.com/app/project/f51e578e39ba490782e3ac41f869f871)
