@@ -38,5 +38,3 @@ Project AiAi is the first effort of its kind to donate an open-source, medical a
 Here are some technical KPIs related to code quality and build environment:
 
 [![GitHub Commits Count](https://img.shields.io/github/commits-since/AiAiHealthcare/ProjectAiAi/0.0.svg?maxAge=3600&label=Github%20Commits)](https://github.com/AiAiHealthcare/ProjectAiAi/graphs/punch-card)
-[![Dependency Status](https://www.versioneye.com/user/projects/57df3671037c2000475cd3f5/badge.svg?maxAge=3600)](https://www.versioneye.com/user/projects/57df3671037c2000475cd3f5)
-[![Build Status](https://travis-ci.org/AiAiHealthcare/ProjectAiAi.svg?branch=master&maxAge=3600)](https://travis-ci.org/AiAiHealthcare/ProjectAiAi)
