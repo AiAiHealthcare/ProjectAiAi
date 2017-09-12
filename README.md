@@ -1,5 +1,7 @@
 # Project AiAi
 
+[![GitHub Commits Count](https://img.shields.io/github/commits-since/AiAiHealthcare/ProjectAiAi/0.0.svg?maxAge=300&label=Github%20Commits)](https://github.com/AiAiHealthcare/ProjectAiAi/graphs/punch-card)
+
 AiAi.care project aims to reduce Lung Cancer screening time by 90%, reduce screening cost by 90%, and improve survival probability by 5X through early detection.
 
 AiAi team is building a CAD (Computer Aided Detection) algorithm that will scan Chest X-Rays using a Deep Learning models for Lung Cancer nodule detection and registration. AiAi.care will be world's first FDA approved, open-source CAD, and will be distributed for free to developing countries, charitable hospitals, and organizations like WHO.
@@ -10,7 +12,6 @@ If you are looking for a non-technical introduction to Project AiAi, please [cli
 [![Follow Our Twitter Updates](https://img.shields.io/twitter/follow/AiAiHealthcare.svg?style=social&label=Follow&maxAge=3600)](https://twitter.com/AiAiHealthcare/) 
 [![Join Gitter Discussion](https://img.shields.io/gitter/room/AiAi-care/Lobby.svg?maxAge=3600)](https://gitter.im/AiAi-care/Lobby) 
 [![Website](https://img.shields.io/website-up-down-green-red/https/AiAi.care.svg?maxAge=3600)](https://AiAi.care/) 
-[![GitHub Commits Count](https://img.shields.io/github/commits-since/AiAiHealthcare/ProjectAiAi/0.0.svg?maxAge=300&label=Github%20Commits)](https://github.com/AiAiHealthcare/ProjectAiAi/graphs/punch-card)
 
 
 # Project Milestones 
