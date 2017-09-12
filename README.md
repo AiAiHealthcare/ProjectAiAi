@@ -10,6 +10,7 @@ If you are looking for a non-technical introduction to Project AiAi, please [cli
 [![Follow Our Twitter Updates](https://img.shields.io/twitter/follow/AiAiHealthcare.svg?style=social&label=Follow&maxAge=3600)](https://twitter.com/AiAiHealthcare/) 
 [![Join Gitter Discussion](https://img.shields.io/gitter/room/AiAi-care/Lobby.svg?maxAge=3600)](https://gitter.im/AiAi-care/Lobby) 
 [![Website](https://img.shields.io/website-up-down-green-red/https/AiAi.care.svg?maxAge=3600)](https://AiAi.care/) 
+[![GitHub Commits Count](https://img.shields.io/github/commits-since/AiAiHealthcare/ProjectAiAi/0.0.svg?maxAge=300&label=Github%20Commits)](https://github.com/AiAiHealthcare/ProjectAiAi/graphs/punch-card)
 
 
 # Project Milestones 
@@ -33,10 +34,3 @@ If you are a Machine Learning maestro, Kaggle king, or HL7 hacker then please ch
 # Contribute to Legal Strategy Wiki
 
 Project AiAi is the first effort of its kind to donate an open-source, medical algorithm to the world.  This presents some interesting legal challenges, so we have [set up a wiki page where lawyers can donate their time and advice for Project AiAi.](https://github.com/AiAiHealthcare/ProjectAiAi/wiki)
-
-
-# Technical KPIs
-
-Here are some technical KPIs related to code quality and build environment:
-
-[![GitHub Commits Count](https://img.shields.io/github/commits-since/AiAiHealthcare/ProjectAiAi/0.0.svg?maxAge=600&label=Github%20Commits)](https://github.com/AiAiHealthcare/ProjectAiAi/graphs/punch-card)
