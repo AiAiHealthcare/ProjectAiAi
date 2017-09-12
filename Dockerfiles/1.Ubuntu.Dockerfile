@@ -30,6 +30,7 @@ RUN apt-get update --fix-missing && \
 
 ###########################################
 #Security Hardening for HIPAA compliance
+# Work in progress
 
 ##### Provide hook points for audit and security logs, and a standard mount point for patient data
 VOLUME /var/log /var/log/audit /data
