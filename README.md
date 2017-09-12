@@ -27,7 +27,7 @@ Here are [major milestones](https://github.com/AiAiHealthcare/ProjectAiAi/milest
 1. PACS / VNA / DICOM / HL7 / EHR ingestion engine Q1 2018
 
 
-# Donate your ML/DL Expertise
+# Donate your DL Expertise
 
 If you are a Machine Learning maestro, Kaggle king, or HL7 hacker then please check out our [KANBAN project tracker here](https://github.com/AiAiHealthcare/ProjectAiAi/projects/1?fullscreen=true). You can donate your time and expertise by contributing to any of the issues/tasks pinned on the KANBAN board.
 
