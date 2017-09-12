@@ -1,6 +1,8 @@
 # Project AiAi
 
-AiAi is my code-charity project to create an open source Lung Cancer CAD (Computer-aided Detection) algorithm for the world. I plan to donate this radiology algorithm to Doctors without Borders and charitable hospitals in developing countries like India, Belarus, and Vietnam.
+AiAi.care project aims to reduce Lung Cancer screening time by 90%, reduce screening cost by 90%, and improve survival probability by 5X through early detection.
+
+AiAi team is building a CAD (Computer Aided Detection) algorithm that will scan Chest X-Rays using a Deep Learning models for Lung Cancer nodule detection and registration. AiAi.care will be world's first FDA approved, open-source CAD, and will be distributed for free to developing countries, charitable hospitals, and organizations like WHO.
 
 If you are looking for a non-technical introduction to Project AiAi, please [click here to visit https://AiAi.care website](https://AiAi.care).  In case you were wondering about the project's name, AiAi stands for _AI Augmented Imaging_.
 
