@@ -60,3 +60,4 @@ RUN chmod +x /usr/bin/tini
 ENTRYPOINT [ "/usr/bin/tini", "--" ]
 CMD [ "/usr/bin/fish", "-c", "numactl -H; and nvidia-smi; and nvidia-smi topo -m; and jupyter lab" ]
 
+
