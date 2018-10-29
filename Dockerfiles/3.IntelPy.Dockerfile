@@ -1,3 +1,5 @@
+# DEPRECATED
+
 
 ###########################################
 # Install Intel optimized Python 
