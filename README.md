@@ -23,10 +23,10 @@ Here are [major milestones](https://github.com/AiAiHealthcare/ProjectAiAi/milest
 1. :white_check_mark: Level 1 Models : April 12, 2017 _(Completed May 2017)_
 1. :white_check_mark: HIPAA IT Audit and Validation : December 30, 2017 _(Internal Audit Completed 2017)_
 1. :soon: Experiements with DL architectures, activations, and augmentation: _(In Progress, ETA Jan 2019)_
-1. :soon: Add Tuberculosis images to final training dataset: Dec 15, 2018
+1. :soon: Add Tuberculosis images to final training dataset: Jan 15, 2019
 1. Level 2/3 model ensembles (Detection, Classification) : _(In Progress, ETA Mar 2019)_
+1. PACS / VNA / DICOM / HL7 / EHR ingestion engine Q1 2018
 1. MRMC clinical validation for FDA application : Q2 2019
-1. :soon: PACS / VNA / DICOM / HL7 / EHR ingestion engine Q1 2018
 
 
 # Donate your DL / FHIR / PACS Expertise
