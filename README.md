@@ -2,9 +2,9 @@
 
 [![GitHub Commits Count](https://img.shields.io/github/commits-since/AiAiHealthcare/ProjectAiAi/0.0.svg?maxAge=300&label=Github%20Commits)](https://github.com/AiAiHealthcare/ProjectAiAi/graphs/punch-card)
 
-AiAi.care project aims to reduce Lung Cancer screening time by 90%, reduce screening cost by 90%, and improve survival probability by 5X through early detection.
+AiAi.care project is teaching computers to "see" chest X-rays and interpret them how a human Radiologist would. We are using 700,000 labeled Chest X-Rays + Deep Learning to build an FDA 💊 approved, open-source screening tool for Tuberculosis and Lung Cancer. After an MRMC clinical trial, AiAi CAD will be distributed for free to emerging nations, charitable hospitals, and organizations like WHO 🌏 
 
-AiAi team is building a CAD (Computer Aided Detection) algorithm that will scan Chest X-Rays using a Deep Learning models for Lung Cancer nodule detection and registration. AiAi.care will be world's first FDA approved, open-source CAD, and will be distributed for free to developing countries, charitable hospitals, and organizations like WHO.
+Our secondary goal is to open-source **'Medical Imagenet'** pretrained models and weights.  Medical data is hard to obtain, so many current Radiology-AI papers rely on transfer-learning ImageNet weights.  There are significant differences between ImageNet images (color, low-res, high-contrast) and Radiology images (grayscale, high-res, low-contrast), so we believe that our Medical Imagenet weights will improve sensitivity and specificity across the board for future research. 
 
 If you are looking for a non-technical introduction to Project AiAi, please [click here to visit https://AiAi.care website](https://AiAi.care).  In case you were wondering about the project's name, AiAi stands for _AI Augmented Imaging_.
 
@@ -22,11 +22,12 @@ Here are [major milestones](https://github.com/AiAiHealthcare/ProjectAiAi/milest
 1. :white_check_mark: Data Augmentation Tests : March 30, 2017 _(Completed May 2017)_
 1. :white_check_mark: Level 1 Models : April 12, 2017 _(Completed May 2017)_
 1. :white_check_mark: HIPAA IT Audit and Validation : December 30, 2017 _(Internal Audit Completed 2017)_
-1. :soon: Experiements with DL architectures, activations, and augmentation: _(In Progress, ETA Jan 2019)_
-1. :soon: Add Tuberculosis images to final training dataset: Jan 15, 2019
-1. Level 2/3 model ensembles (Detection, Classification) : _(In Progress, ETA Mar 2019)_
-1. PACS / VNA / DICOM / HL7 / EHR ingestion engine Q1 2018
-1. MRMC clinical validation for FDA application : Q2 2019
+1. :soon: Experiements with DL architectures, activations, and augmentation: _(In Progress, ETA Q2 2019)_
+1. :soon: Incorporate 500,000+ additional DR (Digital Radiograph) images in dataset. _(In Progress, ETA Feb 2019)_
+1. Level 2/3 model ensembles (Detection, Classification) : _(In Progress, ETA Q2 2019)_
+1. Build mobile-friendly front-end for AiAi CAD (Computer Aided Detection) : Q2 2019
+1. PACS / VNA / DICOM / HL7 / EHR ingestion engine Q3 2019
+1. MRMC clinical validation for FDA application : Q3 2019
 
 
 # Donate your DL / FHIR / PACS Expertise
