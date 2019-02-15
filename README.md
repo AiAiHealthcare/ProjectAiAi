@@ -23,7 +23,7 @@ Here are [major milestones](https://github.com/AiAiHealthcare/ProjectAiAi/milest
 1. :white_check_mark: Level 1 Models : April 12, 2017 _(Completed May 2017)_
 1. :white_check_mark: HIPAA IT Audit and Validation : December 30, 2017 _(Internal Audit Completed 2017)_
 1. :soon: Experiements with DL architectures, activations, and augmentation: _(In Progress, ETA Q2 2019)_
-1. :soon: Incorporate 500,000+ additional DR (Digital Radiograph) images in dataset. _(In Progress, ETA Feb 2019)_
+1. :soon: Incorporate 500,000+ additional X-ray images in dataset. _(In Progress, ETA Mar 2019)_
 1. Level 2/3 model ensembles (Detection, Classification) : _(In Progress, ETA Q2 2019)_
 1. Build mobile-friendly front-end for AiAi CAD (Computer Aided Detection) : Q2 2019
 1. PACS / VNA / DICOM / HL7 / EHR ingestion engine Q3 2019
