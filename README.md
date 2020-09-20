@@ -22,12 +22,12 @@ Here are [major milestones](https://github.com/AiAiHealthcare/ProjectAiAi/milest
 1. :white_check_mark: Data Augmentation Tests : March 30, 2017 _(Completed May 2017)_
 1. :white_check_mark: Level 1 Models : April 12, 2017 _(Completed May 2017)_
 1. :white_check_mark: HIPAA IT Audit and Validation : December 30, 2017 _(Internal Audit Completed 2017)_
-1. :soon: Experiements with DL architectures, activations, and augmentation: _(In Progress, ETA Q2 2019)_
-1. :soon: We got :sparkles:500,000+:sparkles: additional X-ray images! Merging this with original data. _(In Progress, ETA Mar 2019)_
-1. Level 2/3 model ensembles and differential privacy (Detection, Classification) : _(In Progress, ETA Q2 2019)_
-1. Build mobile-friendly front-end for AiAi CAD (Computer Aided Detection) : Q2 2019
-1. PACS / VNA / DICOM / HL7 / EHR ingestion engine Q3 2019
-1. MRMC clinical validation for FDA application : Q3 2019
+1. :white_check_mark: We got :sparkles:500,000+:sparkles: additional X-ray images! Merging this with original data. _(Completed May 2020)_
+1. :soon: Experiements with DL architectures, activations, and augmentation: _(In Progress, ETA Q1 2021)_
+1. Level 2/3 model ensembles and differential privacy (Detection, Classification) : _(In Progress, ETA Q2 2021)_
+1. Build mobile-friendly front-end for AiAi CAD (Computer Aided Detection) : Q2 2021
+1. PACS / VNA / DICOM / HL7 / EHR ingestion engine Q3 2021
+1. MRMC clinical validation for FDA application : Q3 2021
 
 
 # Donate your DL / FHIR / PACS Expertise
